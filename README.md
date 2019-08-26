@@ -7,8 +7,11 @@ If you want paint your text of <COLOR>, write:
 
 Where <COLOR> is one of the available colors, for example:
 > c_red();
+  
 > printf("This text is red.\n");
+
 > c_cyan();
+
 > printf("Goodbye!"); // This text prints in cyan's color
 
 ## Available colors
