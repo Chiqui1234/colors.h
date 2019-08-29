@@ -2,8 +2,8 @@
 Bring colors to your C terminal/console project
 
 ## Usage
-If you want paint your text of <COLOR>, write:
-> c_<COLOR>();
+If you want paint your text of < COLOR >, write:
+> c_< COLOR >();
 
 Where <COLOR> is one of the available colors, for example:
 > c_red();
