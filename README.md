@@ -36,4 +36,6 @@ Where <COLOR> is one of the available colors, for example:
 ## Note
 cyan and boldCyan outputs yellow IN SOME Linux terminals...
 If that happens to you, note yellow and boldYellow are darker than normal.
-darkBlue and darkBlueBold only work in Linux, sorry for the inconvenience. */
+darkBlue and darkBlueBold only work in Linux, sorry for the inconvenience.
+
+The functions has "c_" prefix, but you can remove that or create a **MACRO**.
